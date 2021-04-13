@@ -1,9 +1,5 @@
-# app website url = https://karis_genius_scapping.com/
-# app redirect url = https://karis_genius_scrapping.com
 
-#client id = WJ2EdOsgBmbolihHEsju5yVh9vZi5e0SAbSyi6iqDw0sNa4PHRllmibJTm7Vt0xj
-#client secret = bjUrs5uJNRrlgbyR7z5cNJ1xWZhck01ikebnb8XihEXEWYoyR2ONraCasFGDLoiLoAekpiKk5ErX05_qE372-w
-CLIENT_ACCESS_TOKEN = 'FeDgPQlbtvtGEyr6eEd2atCqT5nBo4o04qrVIHjhiRnktKcBUgt3NXpqT9yTh9T2'
+CLIENT_ACCESS_TOKEN = 'ENTER TOKEN HERE'
 
 
 import lyricsgenius as genius
